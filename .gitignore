@@ -29,4 +29,7 @@
 # Executables
 *.exe
 *.out
+
+# IDE directories
+.vs/
 *.app

@@ -1,13 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Ken\\source\\repos\\OpenGL_Template\\",
+  "WorkspaceRootPath": "G:\\Ken\\Documents\\GitHub\\comp1004---main-assignment-ZekKen243\\COMP3015-RFERRED-CW\\OpenGL_Template\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F062739E-0134-4605-829B-A56CE9A6377D}|OpenGL_Template\\OpenGL_Template.vcxproj|C:\\Users\\Ken\\source\\repos\\OpenGL_Template\\OpenGL_Template\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{F062739E-0134-4605-829B-A56CE9A6377D}|OpenGL_Template\\OpenGL_Template.vcxproj|G:\\Ken\\Documents\\GitHub\\comp1004---main-assignment-ZekKen243\\COMP3015-RFERRED-CW\\OpenGL_Template\\OpenGL_Template\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F062739E-0134-4605-829B-A56CE9A6377D}|OpenGL_Template\\OpenGL_Template.vcxproj|solutionrelative:OpenGL_Template\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Public\\OpenGL\\include\\glm\\detail\\type_vec4.inl||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,30 +14,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 579,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "type_vec4.inl",
-              "DocumentMoniker": "C:\\Users\\Public\\OpenGL\\include\\glm\\detail\\type_vec4.inl",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Public\\OpenGL\\include\\glm\\detail\\type_vec4.inl",
-              "ToolTip": "C:\\Users\\Public\\OpenGL\\include\\glm\\detail\\type_vec4.inl",
-              "RelativeToolTip": "..\\..\\..\\..\\Public\\OpenGL\\include\\glm\\detail\\type_vec4.inl",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAALUAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-08-04T19:30:35.133Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\Ken\\source\\repos\\OpenGL_Template\\OpenGL_Template\\main.cpp",
+              "DocumentMoniker": "G:\\Ken\\Documents\\GitHub\\comp1004---main-assignment-ZekKen243\\COMP3015-RFERRED-CW\\OpenGL_Template\\OpenGL_Template\\main.cpp",
               "RelativeDocumentMoniker": "OpenGL_Template\\main.cpp",
-              "ToolTip": "C:\\Users\\Ken\\source\\repos\\OpenGL_Template\\OpenGL_Template\\main.cpp",
+              "ToolTip": "G:\\Ken\\Documents\\GitHub\\comp1004---main-assignment-ZekKen243\\COMP3015-RFERRED-CW\\OpenGL_Template\\OpenGL_Template\\main.cpp",
               "RelativeToolTip": "OpenGL_Template\\main.cpp",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAACwAAAAAAAAA",
+              "ViewState": "AQIAADAAAAAAAAAAAAAQwCYAAABPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-07-31T21:58:04.394Z",
               "EditorCaption": ""

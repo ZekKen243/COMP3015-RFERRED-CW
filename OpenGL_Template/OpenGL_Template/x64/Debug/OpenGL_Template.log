@@ -1,2 +1,4 @@
 ﻿  main.cpp
-  OpenGL_Template.vcxproj -> C:\Users\Ken\source\repos\OpenGL_Template\x64\Debug\OpenGL_Template.exe
+G:\Ken\Documents\GitHub\comp1004---main-assignment-ZekKen243\COMP3015-RFERRED-CW\OpenGL_Template\OpenGL_Template\main.cpp(75,37): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+G:\Ken\Documents\GitHub\comp1004---main-assignment-ZekKen243\COMP3015-RFERRED-CW\OpenGL_Template\OpenGL_Template\main.cpp(75,37): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  OpenGL_Template.vcxproj -> G:\Ken\Documents\GitHub\comp1004---main-assignment-ZekKen243\COMP3015-RFERRED-CW\OpenGL_Template\x64\Debug\OpenGL_Template.exe
