@@ -2,5 +2,7 @@ G:\Ken\Documents\GitHub\COMP3015-RFERRED-CW\OpenGL_Template\OpenGL_Template\EBO.
 G:\Ken\Documents\GitHub\COMP3015-RFERRED-CW\OpenGL_Template\OpenGL_Template\glad.c;G:\Ken\Documents\GitHub\COMP3015-RFERRED-CW\OpenGL_Template\OpenGL_Template\x64\Debug\glad.obj
 G:\Ken\Documents\GitHub\COMP3015-RFERRED-CW\OpenGL_Template\OpenGL_Template\main.cpp;G:\Ken\Documents\GitHub\COMP3015-RFERRED-CW\OpenGL_Template\OpenGL_Template\x64\Debug\main.obj
 G:\Ken\Documents\GitHub\COMP3015-RFERRED-CW\OpenGL_Template\OpenGL_Template\shaderClass.cpp;G:\Ken\Documents\GitHub\COMP3015-RFERRED-CW\OpenGL_Template\OpenGL_Template\x64\Debug\shaderClass.obj
+G:\Ken\Documents\GitHub\COMP3015-RFERRED-CW\OpenGL_Template\OpenGL_Template\stb.cpp;G:\Ken\Documents\GitHub\COMP3015-RFERRED-CW\OpenGL_Template\OpenGL_Template\x64\Debug\stb.obj
+G:\Ken\Documents\GitHub\COMP3015-RFERRED-CW\OpenGL_Template\OpenGL_Template\Texture.cpp;G:\Ken\Documents\GitHub\COMP3015-RFERRED-CW\OpenGL_Template\OpenGL_Template\x64\Debug\Texture.obj
 G:\Ken\Documents\GitHub\COMP3015-RFERRED-CW\OpenGL_Template\OpenGL_Template\VAO.cpp;G:\Ken\Documents\GitHub\COMP3015-RFERRED-CW\OpenGL_Template\OpenGL_Template\x64\Debug\VAO.obj
 G:\Ken\Documents\GitHub\COMP3015-RFERRED-CW\OpenGL_Template\OpenGL_Template\VBO.cpp;G:\Ken\Documents\GitHub\COMP3015-RFERRED-CW\OpenGL_Template\OpenGL_Template\x64\Debug\VBO.obj
