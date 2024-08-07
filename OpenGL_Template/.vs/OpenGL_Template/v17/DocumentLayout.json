@@ -7,20 +7,8 @@
       "RelativeMoniker": "D:0:0:{F062739E-0134-4605-829B-A56CE9A6377D}|OpenGL_Template\\OpenGL_Template.vcxproj|solutionrelative:OpenGL_Template\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F062739E-0134-4605-829B-A56CE9A6377D}|OpenGL_Template\\OpenGL_Template.vcxproj|G:\\Ken\\Documents\\GitHub\\COMP3015-RFERRED-CW\\OpenGL_Template\\OpenGL_Template\\VAO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F062739E-0134-4605-829B-A56CE9A6377D}|OpenGL_Template\\OpenGL_Template.vcxproj|solutionrelative:OpenGL_Template\\VAO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F062739E-0134-4605-829B-A56CE9A6377D}|OpenGL_Template\\OpenGL_Template.vcxproj|G:\\Ken\\Documents\\GitHub\\COMP3015-RFERRED-CW\\OpenGL_Template\\OpenGL_Template\\VAO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F062739E-0134-4605-829B-A56CE9A6377D}|OpenGL_Template\\OpenGL_Template.vcxproj|solutionrelative:OpenGL_Template\\VAO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F062739E-0134-4605-829B-A56CE9A6377D}|OpenGL_Template\\OpenGL_Template.vcxproj|G:\\Ken\\Documents\\GitHub\\COMP3015-RFERRED-CW\\OpenGL_Template\\OpenGL_Template\\EBO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F062739E-0134-4605-829B-A56CE9A6377D}|OpenGL_Template\\OpenGL_Template.vcxproj|solutionrelative:OpenGL_Template\\EBO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F062739E-0134-4605-829B-A56CE9A6377D}|OpenGL_Template\\OpenGL_Template.vcxproj|G:\\Ken\\Documents\\GitHub\\COMP3015-RFERRED-CW\\OpenGL_Template\\OpenGL_Template\\EBO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F062739E-0134-4605-829B-A56CE9A6377D}|OpenGL_Template\\OpenGL_Template.vcxproj|solutionrelative:OpenGL_Template\\EBO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F062739E-0134-4605-829B-A56CE9A6377D}|OpenGL_Template\\OpenGL_Template.vcxproj|G:\\Ken\\Documents\\GitHub\\COMP3015-RFERRED-CW\\OpenGL_Template\\OpenGL_Template\\shaderClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F062739E-0134-4605-829B-A56CE9A6377D}|OpenGL_Template\\OpenGL_Template.vcxproj|solutionrelative:OpenGL_Template\\shaderClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F062739E-0134-4605-829B-A56CE9A6377D}|OpenGL_Template\\OpenGL_Template.vcxproj|G:\\Ken\\Documents\\GitHub\\COMP3015-RFERRED-CW\\OpenGL_Template\\OpenGL_Template\\VBO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -31,8 +19,24 @@
       "RelativeMoniker": "D:0:0:{F062739E-0134-4605-829B-A56CE9A6377D}|OpenGL_Template\\OpenGL_Template.vcxproj|solutionrelative:OpenGL_Template\\VBO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F062739E-0134-4605-829B-A56CE9A6377D}|OpenGL_Template\\OpenGL_Template.vcxproj|G:\\Ken\\Documents\\GitHub\\COMP3015-RFERRED-CW\\OpenGL_Template\\OpenGL_Template\\shaderClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F062739E-0134-4605-829B-A56CE9A6377D}|OpenGL_Template\\OpenGL_Template.vcxproj|solutionrelative:OpenGL_Template\\shaderClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F062739E-0134-4605-829B-A56CE9A6377D}|OpenGL_Template\\OpenGL_Template.vcxproj|G:\\Ken\\Documents\\GitHub\\COMP3015-RFERRED-CW\\OpenGL_Template\\OpenGL_Template\\EBO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F062739E-0134-4605-829B-A56CE9A6377D}|OpenGL_Template\\OpenGL_Template.vcxproj|solutionrelative:OpenGL_Template\\EBO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F062739E-0134-4605-829B-A56CE9A6377D}|OpenGL_Template\\OpenGL_Template.vcxproj|G:\\Ken\\Documents\\GitHub\\COMP3015-RFERRED-CW\\OpenGL_Template\\OpenGL_Template\\glad.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F062739E-0134-4605-829B-A56CE9A6377D}|OpenGL_Template\\OpenGL_Template.vcxproj|solutionrelative:OpenGL_Template\\glad.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F062739E-0134-4605-829B-A56CE9A6377D}|OpenGL_Template\\OpenGL_Template.vcxproj|G:\\Ken\\Documents\\GitHub\\COMP3015-RFERRED-CW\\OpenGL_Template\\OpenGL_Template\\VAO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F062739E-0134-4605-829B-A56CE9A6377D}|OpenGL_Template\\OpenGL_Template.vcxproj|solutionrelative:OpenGL_Template\\VAO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F062739E-0134-4605-829B-A56CE9A6377D}|OpenGL_Template\\OpenGL_Template.vcxproj|G:\\Ken\\Documents\\GitHub\\COMP3015-RFERRED-CW\\OpenGL_Template\\OpenGL_Template\\EBO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F062739E-0134-4605-829B-A56CE9A6377D}|OpenGL_Template\\OpenGL_Template.vcxproj|solutionrelative:OpenGL_Template\\EBO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F062739E-0134-4605-829B-A56CE9A6377D}|OpenGL_Template\\OpenGL_Template.vcxproj|G:\\Ken\\Documents\\GitHub\\COMP3015-RFERRED-CW\\OpenGL_Template\\OpenGL_Template\\VAO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F062739E-0134-4605-829B-A56CE9A6377D}|OpenGL_Template\\OpenGL_Template.vcxproj|solutionrelative:OpenGL_Template\\VAO.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F062739E-0134-4605-829B-A56CE9A6377D}|OpenGL_Template\\OpenGL_Template.vcxproj|G:\\Ken\\Documents\\GitHub\\COMP3015-RFERRED-CW\\OpenGL_Template\\OpenGL_Template\\shaderClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -54,11 +58,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 579,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "glad.c",
+              "DocumentMoniker": "G:\\Ken\\Documents\\GitHub\\COMP3015-RFERRED-CW\\OpenGL_Template\\OpenGL_Template\\glad.c",
+              "RelativeDocumentMoniker": "OpenGL_Template\\glad.c",
+              "ToolTip": "G:\\Ken\\Documents\\GitHub\\COMP3015-RFERRED-CW\\OpenGL_Template\\OpenGL_Template\\glad.c",
+              "RelativeToolTip": "OpenGL_Template\\glad.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-08-06T12:49:25.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "VAO.cpp",
               "DocumentMoniker": "G:\\Ken\\Documents\\GitHub\\COMP3015-RFERRED-CW\\OpenGL_Template\\OpenGL_Template\\VAO.cpp",
               "RelativeDocumentMoniker": "OpenGL_Template\\VAO.cpp",
@@ -71,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "VAO.h",
               "DocumentMoniker": "G:\\Ken\\Documents\\GitHub\\COMP3015-RFERRED-CW\\OpenGL_Template\\OpenGL_Template\\VAO.h",
               "RelativeDocumentMoniker": "OpenGL_Template\\VAO.h",
@@ -84,7 +101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "EBO.cpp",
               "DocumentMoniker": "G:\\Ken\\Documents\\GitHub\\COMP3015-RFERRED-CW\\OpenGL_Template\\OpenGL_Template\\EBO.cpp",
               "RelativeDocumentMoniker": "OpenGL_Template\\EBO.cpp",
@@ -97,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "EBO.h",
               "DocumentMoniker": "G:\\Ken\\Documents\\GitHub\\COMP3015-RFERRED-CW\\OpenGL_Template\\OpenGL_Template\\EBO.h",
               "RelativeDocumentMoniker": "OpenGL_Template\\EBO.h",
@@ -110,20 +127,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "VBO.cpp",
               "DocumentMoniker": "G:\\Ken\\Documents\\GitHub\\COMP3015-RFERRED-CW\\OpenGL_Template\\OpenGL_Template\\VBO.cpp",
               "RelativeDocumentMoniker": "OpenGL_Template\\VBO.cpp",
               "ToolTip": "G:\\Ken\\Documents\\GitHub\\COMP3015-RFERRED-CW\\OpenGL_Template\\OpenGL_Template\\VBO.cpp",
               "RelativeToolTip": "OpenGL_Template\\VBO.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-08-06T14:19:58.795Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "VBO.h",
               "DocumentMoniker": "G:\\Ken\\Documents\\GitHub\\COMP3015-RFERRED-CW\\OpenGL_Template\\OpenGL_Template\\VBO.h",
               "RelativeDocumentMoniker": "OpenGL_Template\\VBO.h",
@@ -136,20 +153,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "shaderClass.cpp",
               "DocumentMoniker": "G:\\Ken\\Documents\\GitHub\\COMP3015-RFERRED-CW\\OpenGL_Template\\OpenGL_Template\\shaderClass.cpp",
               "RelativeDocumentMoniker": "OpenGL_Template\\shaderClass.cpp",
               "ToolTip": "G:\\Ken\\Documents\\GitHub\\COMP3015-RFERRED-CW\\OpenGL_Template\\OpenGL_Template\\shaderClass.cpp",
               "RelativeToolTip": "OpenGL_Template\\shaderClass.cpp",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAQwBwAAAAzAAAA",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADUAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-08-06T14:15:24.138Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "shaderClass.h",
               "DocumentMoniker": "G:\\Ken\\Documents\\GitHub\\COMP3015-RFERRED-CW\\OpenGL_Template\\OpenGL_Template\\shaderClass.h",
               "RelativeDocumentMoniker": "OpenGL_Template\\shaderClass.h",
@@ -162,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "default.frag",
               "DocumentMoniker": "G:\\Ken\\Documents\\GitHub\\COMP3015-RFERRED-CW\\OpenGL_Template\\OpenGL_Template\\default.frag",
               "RelativeDocumentMoniker": "OpenGL_Template\\default.frag",
@@ -175,7 +192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "default.vert",
               "DocumentMoniker": "G:\\Ken\\Documents\\GitHub\\COMP3015-RFERRED-CW\\OpenGL_Template\\OpenGL_Template\\default.vert",
               "RelativeDocumentMoniker": "OpenGL_Template\\default.vert",
@@ -192,9 +209,9 @@
               "Title": "main.cpp",
               "DocumentMoniker": "G:\\Ken\\Documents\\GitHub\\COMP3015-RFERRED-CW\\OpenGL_Template\\OpenGL_Template\\main.cpp",
               "RelativeDocumentMoniker": "OpenGL_Template\\main.cpp",
-              "ToolTip": "G:\\Ken\\Documents\\GitHub\\COMP3015-RFERRED-CW\\OpenGL_Template\\OpenGL_Template\\main.cpp*",
-              "RelativeToolTip": "OpenGL_Template\\main.cpp*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAALAAAA",
+              "ToolTip": "G:\\Ken\\Documents\\GitHub\\COMP3015-RFERRED-CW\\OpenGL_Template\\OpenGL_Template\\main.cpp",
+              "RelativeToolTip": "OpenGL_Template\\main.cpp",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAAHcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-07-31T21:58:04.394Z",
               "EditorCaption": ""
