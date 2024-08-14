@@ -119,7 +119,9 @@ int main()
 		// Camera inputs
 		camera.Inputs(window);
 		// Updates and sends the camera matrix to the Vertex Shader
-		camera.Matrix(45.0f, 0.1f, 100.0f, shaderProgram, "camMatrix");
+		camera.updateMatrix(45.0f, 0.1f, 100.0f);
+
+		camera.Matrix(shaderProgram, "camMatrix");
 
 		// Binds texture so that it appears in rendering
 		popCat.Bind();

@@ -18,6 +18,7 @@ class Camera
 		glm::vec3 Position;
 		glm::vec3 Orientation = glm::vec3(0.0f, 0.0f, -1.0f);
 		glm::vec3 Up = glm::vec3(0.0f, 1.0f, 0.0f);
+		glm::mat4 cameraMatrix = glm::mat4(1.0f);
 
 		// Prevents camera jump on the first left click
 		bool firstClick = true;
@@ -34,13 +35,9 @@ class Camera
 		Camera(int width, int height, glm::vec3 position);
 
 		// Updates and sends camera matrix to the Vertex Shader
-		void Matrix(
-			float FOVdeg,
-			float nearPlane,
-			float farPlane,
-			Shader& shader,
-			const char* uniform
-		);
+		void updateMatrix(float FOVdeg, float nearPlane, float farPlane);
+		void Matrix(Shader& shader, const char* uniform);
+
 		// Camera inputs
 		void Inputs(GLFWwindow* window);
 
