@@ -12,7 +12,7 @@ From the build folder, extract and find the `OpenGL_Template.exe` file and run.
   
 You can move around the scene:  
   
-WASD: Movement  
-Left shift: Hold to speed up movement  
-Left control: Move down  
-Space: Move up
+**WASD**: Movement  
+**Left shift**: Hold to speed up movement  
+**Left control**: Move down  
+**Space**: Move up
