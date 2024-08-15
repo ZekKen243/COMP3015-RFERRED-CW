@@ -87,5 +87,20 @@
     <Image Include="popcat_512x512.png">
       <Filter>Resource Files\Textures</Filter>
     </Image>
+    <Image Include="black_asphalt_256x256.jpg">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+    <Image Include="grass_256x256.png">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+    <Image Include="wood1_256x256.png">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+    <Image Include="planks.png">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
+    <Image Include="planksSpec.png">
+      <Filter>Resource Files\Textures</Filter>
+    </Image>
   </ItemGroup>
 </Project>
