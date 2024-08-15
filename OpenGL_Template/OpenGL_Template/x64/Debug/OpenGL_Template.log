@@ -1,2 +1,10 @@
-﻿  main.cpp
+﻿  EBO.cpp
+  main.cpp
+  Mesh.cpp
+G:\Ken\Documents\GitHub\COMP3015-RFERRED-CW\OpenGL_Template\OpenGL_Template\Mesh.cpp(56,43): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  Texture.cpp
+  VAO.cpp
+G:\Ken\Documents\GitHub\COMP3015-RFERRED-CW\OpenGL_Template\OpenGL_Template\VAO.cpp(13,63): warning C4244: 'argument': conversion from 'GLsizeiptr' to 'GLsizei', possible loss of data
+  VBO.cpp
+  Generating Code...
   OpenGL_Template.vcxproj -> G:\Ken\Documents\GitHub\COMP3015-RFERRED-CW\OpenGL_Template\x64\Debug\OpenGL_Template.exe
