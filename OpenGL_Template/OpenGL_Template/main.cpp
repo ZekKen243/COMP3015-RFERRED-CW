@@ -67,7 +67,7 @@ int main()
 	glfwWindowHint(GLFW_OPENGL_FORWARD_COMPAT, GL_TRUE);
 
 	// Create a GLFWwindow object of 800 by 800 pixels, naming it "YoutubeOpenGL"
-	GLFWwindow* window = glfwCreateWindow(width, height, "OpenGL Template", NULL, NULL);
+	GLFWwindow* window = glfwCreateWindow(width, height, "OpenGL Template - COMP 3015", NULL, NULL);
 	// Error check if the window fails to create
 	if (window == NULL)
 	{
