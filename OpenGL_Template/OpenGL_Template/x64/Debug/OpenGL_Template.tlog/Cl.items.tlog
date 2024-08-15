@@ -1,8 +1,11 @@
 G:\Ken\Documents\GitHub\COMP3015-RFERRED-CW\OpenGL_Template\OpenGL_Template\Camera.cpp;G:\Ken\Documents\GitHub\COMP3015-RFERRED-CW\OpenGL_Template\OpenGL_Template\x64\Debug\Camera.obj
 G:\Ken\Documents\GitHub\COMP3015-RFERRED-CW\OpenGL_Template\OpenGL_Template\EBO.cpp;G:\Ken\Documents\GitHub\COMP3015-RFERRED-CW\OpenGL_Template\OpenGL_Template\x64\Debug\EBO.obj
 G:\Ken\Documents\GitHub\COMP3015-RFERRED-CW\OpenGL_Template\OpenGL_Template\glad.c;G:\Ken\Documents\GitHub\COMP3015-RFERRED-CW\OpenGL_Template\OpenGL_Template\x64\Debug\glad.obj
+G:\Ken\Documents\GitHub\COMP3015-RFERRED-CW\OpenGL_Template\OpenGL_Template\helper\objmesh.cpp;G:\Ken\Documents\GitHub\COMP3015-RFERRED-CW\OpenGL_Template\OpenGL_Template\x64\Debug\objmesh.obj
+G:\Ken\Documents\GitHub\COMP3015-RFERRED-CW\OpenGL_Template\OpenGL_Template\helper\trianglemesh.cpp;G:\Ken\Documents\GitHub\COMP3015-RFERRED-CW\OpenGL_Template\OpenGL_Template\x64\Debug\trianglemesh.obj
 G:\Ken\Documents\GitHub\COMP3015-RFERRED-CW\OpenGL_Template\OpenGL_Template\main.cpp;G:\Ken\Documents\GitHub\COMP3015-RFERRED-CW\OpenGL_Template\OpenGL_Template\x64\Debug\main.obj
 G:\Ken\Documents\GitHub\COMP3015-RFERRED-CW\OpenGL_Template\OpenGL_Template\Mesh.cpp;G:\Ken\Documents\GitHub\COMP3015-RFERRED-CW\OpenGL_Template\OpenGL_Template\x64\Debug\Mesh.obj
+G:\Ken\Documents\GitHub\COMP3015-RFERRED-CW\OpenGL_Template\OpenGL_Template\ParticleSystem.cpp;G:\Ken\Documents\GitHub\COMP3015-RFERRED-CW\OpenGL_Template\OpenGL_Template\x64\Debug\ParticleSystem.obj
 G:\Ken\Documents\GitHub\COMP3015-RFERRED-CW\OpenGL_Template\OpenGL_Template\shaderClass.cpp;G:\Ken\Documents\GitHub\COMP3015-RFERRED-CW\OpenGL_Template\OpenGL_Template\x64\Debug\shaderClass.obj
 G:\Ken\Documents\GitHub\COMP3015-RFERRED-CW\OpenGL_Template\OpenGL_Template\stb.cpp;G:\Ken\Documents\GitHub\COMP3015-RFERRED-CW\OpenGL_Template\OpenGL_Template\x64\Debug\stb.obj
 G:\Ken\Documents\GitHub\COMP3015-RFERRED-CW\OpenGL_Template\OpenGL_Template\Texture.cpp;G:\Ken\Documents\GitHub\COMP3015-RFERRED-CW\OpenGL_Template\OpenGL_Template\x64\Debug\Texture.obj

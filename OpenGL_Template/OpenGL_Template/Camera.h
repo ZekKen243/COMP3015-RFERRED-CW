@@ -20,6 +20,9 @@ class Camera
 		glm::vec3 Up = glm::vec3(0.0f, 1.0f, 0.0f);
 		glm::mat4 cameraMatrix = glm::mat4(1.0f);
 
+		glm::mat4 GetViewMatrix() const;
+		glm::mat4 GetProjectionMatrix() const;
+
 		// Prevents camera jump on the first left click
 		bool firstClick = true;
 
