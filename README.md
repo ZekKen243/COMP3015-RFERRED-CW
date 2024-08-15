@@ -8,7 +8,8 @@ Everything needed should be in the `main` branch, with `OpenGL_Template` as the 
 Resources used are [learnopengl.com](https://learnopengl.com) and some related YouTube tutorials that cover what learnopengl.com has in more depth.
 
 ## How to run the project
-From the build folder, extract and find the `OpenGL_Template.exe` file and run.  
+From the build folder, extract and find the `OpenGL_Template.exe` file and run.    
+  
 You can move around the scene:  
   
 WASD: Movement  
