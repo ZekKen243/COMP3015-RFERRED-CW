@@ -18,12 +18,12 @@ void Camera::updateMatrix(float FOVdeg, float nearPlane, float farPlane)
 	// Adds perespective to scene
 	projection = glm::perspective(glm::radians(FOVdeg), (float)(width / height), nearPlane, farPlane);
 
+	// Sets new camera matrix
 	cameraMatrix = projection * view;
 }
 
 void Camera::Matrix(Shader& shader, const char* uniform)
 {
-
 	// Sends camera matrix to the Vertex Shader
 	glUniformMatrix4fv(glGetUniformLocation(shader.ID, uniform), 1, GL_FALSE, glm::value_ptr(cameraMatrix));
 }

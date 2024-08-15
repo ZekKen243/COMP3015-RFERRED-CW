@@ -36,6 +36,7 @@ class Camera
 
 		// Updates and sends camera matrix to the Vertex Shader
 		void updateMatrix(float FOVdeg, float nearPlane, float farPlane);
+		// Exports the camera matrix to a shader
 		void Matrix(Shader& shader, const char* uniform);
 
 		// Camera inputs
